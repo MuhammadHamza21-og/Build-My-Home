@@ -1,0 +1,6 @@
+{
+  "name": "BuildMyHome AI",
+  "description": "Professional AI House Planning, 2D Floor Plans & Interactive 3D Architecture Visualizer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
